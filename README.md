@@ -1,7 +1,7 @@
-Foods Website
+##Foods Website
 Este proyecto es una página web para un restaurante o servicio de comida, diseñada utilizando HTML y CSS. La página incluye secciones como inicio, sobre nosotros, menú de comida, servicios, patrocinadores y contacto.
 
-Tabla de Contenidos
+##Tabla de Contenidos
 | Sección                | Descripción                                   |
 |------------------------|-----------------------------------------------|
 | [Descripción](#descripción)                | Descripción general del proyecto              |
@@ -12,22 +12,22 @@ Tabla de Contenidos
 | [Uso](#uso)                              | Instrucciones para visualizar la página        |
 | [Notas](#notas)                          | Notas adicionales y requisitos                 |
 
-Descripción
+##Descripción
 La página web "Foods" ofrece una interfaz para explorar el menú de alimentos, aprender sobre los servicios y ponerse en contacto con el restaurante. Incluye una navegación simple y secciones visualmente atractivas con imágenes y botones.
 
-Estructura del HTML
+##Estructura del HTML
 El archivo index.html incluye las siguientes secciones principales:
 
-Header
+##Header
 Un menú de navegación con enlaces a las diferentes secciones de la página.
 
 Main
-Información principal sobre el sitio y una imagen destacada.
+##Información principal sobre el sitio y una imagen destacada.
 
-About Us
+##About Us
 Información sobre la empresa o servicio de comida.
 
-Food Menu
+##Food Menu
 Un menú con imágenes y descripciones de los alimentos disponibles.
 Services
 Descripción de los servicios ofrecidos.
